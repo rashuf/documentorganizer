@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentStructs>
+  <DocumentStruct TypeId="07.02.01">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="07.05.01">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="07.08">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="07.09">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="08.01.05">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="08.02.01">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="08.02.02">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="08.02.03">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+<Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+  <DocumentStruct TypeId="08.05">
+    <Attribute Name="Тип документа" StandardValue="" TagName="Type" PatternId="t" Priority="1" Id="AI00000001" />
+    <Attribute Name="Номер документа" StandardValue="" TagName="Number" PatternId="n" Priority="2" Id="AI00000003" />
+    <Attribute Name="Дата документа" StandardValue="" TagName="Date" PatternId="d" Priority="2" Id="AI00000002" />
+    <Attribute Name="Страница документа" StandardValue="" TagName="Page" PatternId="p" Priority="2" Id="AI00000004" />
+    <Attribute Name="ИНН" StandardValue="5611055980" TagName="INN" PatternId="i" Priority="3" Id="AI00000005" />
+    <Attribute Name="КПП" StandardValue="561101001" TagName="KPP" PatternId="k" Priority="3" Id="AI00000006" />
+    <Attribute Name="RefTableId записи документа" StandardValue="" TagName="RefTableId" PatternId="c" Priority="3" Id="AI00000007" />
+    <Attribute Name="RefRecId записи документа" StandardValue="" TagName="RefRecId" PatternId="r" Priority="3" Id="AI00000008" />
+    <Attribute Name="Количество страниц в документе" StandardValue="" TagName="PageCount" PatternId="q" Priority="3" Id="AI00000009" />
+  </DocumentStruct>
+</DocumentStructs>
